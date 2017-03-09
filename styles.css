@@ -1,0 +1,14 @@
+
+#main {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+#sec {
+  width: 400px;
+  height: 500px;
+  background-color: red;
+  margin-left: 500px;
+  margin-top: 400px;
+}
